@@ -1,6 +1,5 @@
 Make dark mode default
 Change pictures
-Change percentage skills to normal non percentage
 Change spelling mistakes
 Change descriptions and titles to match me
 Maybe remove scroll down button?
