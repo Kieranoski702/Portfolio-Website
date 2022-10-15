@@ -234,6 +234,11 @@ img {
   font-weight: var(--font-medium);
 }
 
+.nav__link:visited{
+  text-decoration: none;
+  color: inherit;
+}
+
 .nav__link:hover{
   color: var(--first-color);
 }
@@ -939,6 +944,11 @@ img {
   display: flex;
   flex-direction: column;
   row-gap: 1.5rem;
+}
+
+.footer__links:visited{
+  text-decoration: none;
+  color: inherit;
 }
 
 .footer__link:hover{
