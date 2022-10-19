@@ -1,4 +1,5 @@
 Make dark mode default
+Fix adblocker blocking social images
 Change pictures
 Change spelling mistakes
 Change descriptions and titles to match me
