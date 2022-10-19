@@ -329,6 +329,8 @@ img {
 
 .home__description{
   margin-bottom: var(--mb-2);
+  overflow-wrap: break-word;
+  width: 400px;
 }
 
 .home__scroll{
@@ -968,6 +970,11 @@ img {
 
 .footer__social:hover{
   color: var(--first-color-lighter);
+}
+
+.footer__social:visited{
+  text-decoration: none;
+  color: inherit;
 }
 
 .footer__copy{
