@@ -234,10 +234,10 @@ img {
   font-weight: var(--font-medium);
 }
 
-/* .nav__link:visited{
+.nav__link:visited{
   text-decoration: none;
   color: inherit;
-} */
+}
 
 .nav__link:hover{
   color: var(--first-color);
@@ -954,10 +954,10 @@ img {
   row-gap: 1.5rem;
 }
 
-/* .footer__links:visited{
+.footer__links:visited{
   text-decoration: none;
   color: inherit;
-} */
+}
 
 .footer__link:hover{
   color: var(--first-color-lighter);
@@ -972,10 +972,10 @@ img {
   color: var(--first-color-lighter);
 }
 
-/* .footer__social:visited{
+.footer__social:visited{
   text-decoration: none;
   color: inherit;
-} */
+}
 
 .footer__copy{
   font-size: var(--smaller-font-size);
