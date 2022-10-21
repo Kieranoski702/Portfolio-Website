@@ -969,7 +969,7 @@ img {
 }
 
 .footer__links:visited{
-  /* text-decoration: none; */
+  text-decoration: none;
   color: #fff;
 }
 
@@ -987,7 +987,7 @@ img {
 }
 
 .footer__social:visited{
-  /* text-decoration: none; */
+  text-decoration: none;
   color: #fff;
 }
 
