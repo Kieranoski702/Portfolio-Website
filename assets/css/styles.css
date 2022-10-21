@@ -243,6 +243,18 @@ img {
   color: var(--first-color);
 }
 
+.nav__item{
+  color: var(--title-color);
+}
+
+.nav__item:visited{
+  color: var(--title-color);
+}
+
+.nav__item:hover{
+  color: var(--first-color);
+}
+
 .nav__icon{
   font-size: 1.2rem;
 }
