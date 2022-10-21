@@ -1,3 +1,6 @@
+Update services description
+Add websites to portfolio section
+
 Make dark mode default
 Fix adblocker blocking social images
 Change pictures
