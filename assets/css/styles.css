@@ -236,6 +236,7 @@ img {
 
 .nav__link:visited{
   text-decoration: none;
+  color: var(--title-color);
 }
 
 .nav__link:hover{
@@ -955,6 +956,7 @@ img {
 
 .footer__links:visited{
   text-decoration: none;
+  color: #fff;
 }
 
 .footer__link:hover{
@@ -972,6 +974,7 @@ img {
 
 .footer__social:visited{
   text-decoration: none;
+  color: #fff;
 }
 
 .footer__copy{
