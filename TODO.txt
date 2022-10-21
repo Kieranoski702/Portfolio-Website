@@ -1,6 +1,5 @@
-Update services description
-Make form work
 Add websites to portfolio section then uncomment it
+Make form work
 Fix adblocker blocking social images
 
 Make dark mode default
