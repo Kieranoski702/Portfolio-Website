@@ -342,7 +342,7 @@ img {
 .home__description{
   margin-bottom: var(--mb-2);
   overflow-wrap: break-word;
-  width: 400px;
+  /* width: 400px; */
 }
 
 .home__scroll{
@@ -1070,7 +1070,7 @@ img {
     width: 180px;
   }
   .home__description{
-    width: 320px;
+    /* width: 320px; */
     word-wrap: break-word;
   }
 
