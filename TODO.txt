@@ -1,8 +1,9 @@
 Update services description
-Add websites to portfolio section
+Make form work
+Add websites to portfolio section then uncomment it
+Fix adblocker blocking social images
 
 Make dark mode default
-Fix adblocker blocking social images
 Change pictures
 Change spelling mistakes
 Change descriptions and titles to match me

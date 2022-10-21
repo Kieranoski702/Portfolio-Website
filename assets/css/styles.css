@@ -421,6 +421,7 @@ img {
 .about__description{
   text-align: center;
   margin-bottom: var(--mb-2-5);
+  /* Added margin top so picture looks better, change if the about picture is changed */
   margin-top: var(--mb-2-5);
 }
 
