@@ -966,6 +966,8 @@ img {
 .footer__social{
   font-size: 1.25rem;
   margin-right: var(--mb-1-5);
+  text-decoration: none;
+  color: inherit;
 }
 
 .footer__social:hover{
