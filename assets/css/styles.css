@@ -1070,7 +1070,7 @@ img {
     width: 180px;
   }
   .home__description{
-    /* width: 320px; */
+    width: 320px;
     word-wrap: break-word;
   }
 
