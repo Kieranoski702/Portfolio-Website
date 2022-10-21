@@ -235,7 +235,7 @@ img {
 }
 
 .nav__link:visited{
-  text-decoration: none;
+  /* text-decoration: none; */
   color: var(--title-color);
 }
 
@@ -957,7 +957,7 @@ img {
 }
 
 .footer__links:visited{
-  text-decoration: none;
+  /* text-decoration: none; */
   color: #fff;
 }
 
@@ -975,7 +975,7 @@ img {
 }
 
 .footer__social:visited{
-  text-decoration: none;
+  /* text-decoration: none; */
   color: #fff;
 }
 
@@ -1056,6 +1056,10 @@ img {
   }
   .home__blob{
     width: 180px;
+  }
+  .home__description{
+    width: 320px;
+    word-wrap: break-word;
   }
 
   .skills__title{
