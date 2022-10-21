@@ -236,7 +236,6 @@ img {
 
 .nav__link:visited{
   text-decoration: none;
-  color: inherit;
 }
 
 .nav__link:hover{
@@ -956,7 +955,6 @@ img {
 
 .footer__links:visited{
   text-decoration: none;
-  color: inherit;
 }
 
 .footer__link:hover{
@@ -974,7 +972,6 @@ img {
 
 .footer__social:visited{
   text-decoration: none;
-  color: inherit;
 }
 
 .footer__copy{
