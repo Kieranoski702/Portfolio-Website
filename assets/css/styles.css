@@ -959,7 +959,7 @@ img {
   color: #fff;
 }
 
-.footer__link:hover{
+.footer__links:hover{
   color: var(--first-color-lighter);
 }
 
