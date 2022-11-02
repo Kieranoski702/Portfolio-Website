@@ -1,3 +1,7 @@
+Add websites to portfolio section then uncomment it
+Make form work
+Fix adblocker blocking social images
+
 Make dark mode default
 Change pictures
 Change spelling mistakes
